@@ -36,3 +36,5 @@ h. Сумма неоплаченных штрафо
 8. Заполучить всю базу с сервера на клиенте, чтобы она скачалась в виде json-файла
 
 9. Заполучить дамп базы с заданными критериями опять же в виде JSON-файла, который скачается на клиент
+
+https://itstepby-my.sharepoint.com/:w:/r/personal/skorbilin_a_teacher_itstep_by/_layouts/15/Doc.aspx?sourcedoc=%7B9066BF90-A693-4E7B-9303-492518210222%7D&file=Task.docx&action=default&mobileredirect=true
